@@ -69,3 +69,15 @@
   * **[Link to Paper / ArXiv]** | **[Link to Code]** *(<- Update these links!)*
 
 ---
+
+<h2 align="center">⚡ GitHub Analytics</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaqlainSQX&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&icon_color=00F0FF&show_icons=true&hide_border=true&count_private=true&v=1" alt="GitHub Stats" />
+  <br><br>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SaqlainSQX&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&layout=compact&hide_border=true&v=1" alt="Top Languages" />
+  <br><br>
+
+  <img src="https://streak-stats.demolab.com?user=SaqlainSQX&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=C9D1D9&currStreakLabel=00F0FF&sideNums=C9D1D9&sideLabels=00F0FF&dates=C9D1D9&hide_border=true&v=1" alt="GitHub Streak" />
+</div>
