@@ -1,16 +1,71 @@
-## Hi there 👋
+## About Me
 
-<!--
-**SaqlainSQX/SaqlainSQX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 👋 I am **[Mohammad Saqlain](https://mohammad-saqlain.netlify.app/)**
+* 🎓 B.Tech Sophomore in Information Technology at **IIIT Allahabad**
+* 🤖 Aspiring to pursue **Applied Machine Learning research**
+* 📝 Co-authored paper accepted at **ICLR 2026 CAO Workshop**: [QueST: Query-Conditioned Spatio-Temporal Tracking of Interaction Affordances](https://openreview.net/forum?id=GDVJCGDgN1#discussion)
+* 📫 Reach out to me at [mohammadsaqlain1626@gmail.com](mailto:mohammadsaqlain1626@gmail.com)
 
-Here are some ideas to get you started:
+---
+### 📚 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%"><b>LANGUAGES</b></td>
+    <td width="75%">
+      <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,cs,py,js" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>MACHINE LEARNING & AI</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+      <img src="https://img.shields.io/badge/JAX-125da8?style=for-the-badge" />
+      <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>BACKEND</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>DATABASES</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>TOOLS & INFRA</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,linux,git,github" />
+      <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b>CV, GRAPHICS & SIMULATION</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=opencv,unity" />
+      <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl" />
+      <img src="https://img.shields.io/badge/SAPIEN-323330?style=for-the-badge" />
+    </td>
+  </tr>
+</table>
+
+
+### 🔬 Current Work Experience
+
+* **Research Intern** | *Centre for Intelligent Robotics (CIR), IIIT Allahabad* *(Nov 2025 – Mar 2026)*
+  * Lead research initiatives focused on embodied AI and robotics.
+  * Developed and trained complex machine learning models for visual understanding and interaction affordances.
+
+---
+
+### 📝 Publications
+
+* **QueST: Query-Conditioned Spatio-Temporal Tracking of Interaction Affordances**
+  * *ICLR 2026 CAO Workshop*
+  * **[Link to Paper / ArXiv]** | **[Link to Code]** *(<- Update these links!)*
+
+---
