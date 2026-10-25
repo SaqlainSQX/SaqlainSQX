@@ -105,3 +105,20 @@
     <img src="https://streak-stats.demolab.com?user=SaqlainSQX&background=0D1117&ring=00F0FF&fire=00F0FF&currStreakNum=C9D1D9&currStreakLabel=00F0FF&sideNums=C9D1D9&sideLabels=00F0FF&dates=C9D1D9&hide_border=true" alt="GitHub Streak" />
   </a>
 </div>
+
+
+### 🏙️ Contributions in 3D
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green.svg" />
+  <img src="./profile-3d-contrib/profile-green.svg" alt="Saqlain's GitHub contributions as a 3D calendar" width="100%" />
+</picture>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./snake/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./snake/github-snake.svg" />
+  <img src="./snake/github-snake.svg" alt="A snake moving through Saqlain's GitHub contribution grid" width="100%" />
+</picture>
